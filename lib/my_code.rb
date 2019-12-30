@@ -9,5 +9,5 @@ def map(array)
 end
 
 def reduce(array)
-
+  yield(array)
 end
