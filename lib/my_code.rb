@@ -1,7 +1,7 @@
-def my_own_map(array)
-
+def map(array)
+  yield(array) 
 end
 
-def my_own_reduce(x)
+def reduce(array)
 
 end
